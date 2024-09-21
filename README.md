@@ -38,7 +38,7 @@ Here you can find our [contact information](https://scalenowai.com/contact-us/).
 
 ## Security / responsible disclosure
 
-In the AI domain, security and data integrity are critical priorities. At scalenow, maintaining a robust security framework is essential to protect users and the broader community. Identifying and addressing security issues promptly is key to safeguarding systems and data. Private disclosure of any potential security vulnerabilities is encouraged to ensure sufficient time for mitigation and system upgrades. In this context, security concerns are always prioritised, ensuring they take precedence over other business activities or development tasks in the pipeline.Please contact us directly [contact information](https://scalenowai.com/contact-us/).
+In the AI domain, security and data integrity are critical priorities. At scalenowAI, maintaining a robust security framework is essential to protect users and the broader community. Identifying and addressing security issues promptly is key to safeguarding systems and data. Private disclosure of any potential security vulnerabilities is encouraged to ensure sufficient time for mitigation and system upgrades. In this context, security concerns are always prioritised, ensuring they take precedence over other business activities or development tasks in the pipeline.Please contact us directly [contact information](https://scalenowai.com/contact-us/).
 
 ## License
 
