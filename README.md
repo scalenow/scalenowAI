@@ -20,7 +20,7 @@ scalenowAI is built upon OpenProject, an open-source project management platform
 
 By integrating AI-enabled features, scalenowAI enhances project management capabilities with intelligent automation, predictive analytics, and insights-driven decision-making.These AI-powered tools help automate repetitive tasks, improve accuracy in project forecasting, and offer smart recommendations, increasing overall efficiency.
 
-scalenowAI team encourage users to sign up for free access to explore scalenowAI's advanced AI features. Your feedback will be invaluable in helping us refine the platform to better suit your project management needs and continuously improve its functionality.Sign in (https://www.scalenowai.com). Access to scalenowAI will be granted within 24 hours of signing in.
+scalenowAI team encourage users to sign up for free access to explore scalenowAI's advanced AI features. Your feedback will be invaluable in helping us refine the platform to better suit your project management needs and continuously improve its functionality. Sign in (https://www.scalenowai.com). Access to scalenowAI will be granted within 24 hours of signing in.
 
 ## Reporting bugs or Recommendations for feature enhancement
 
